@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyAppCarolina</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_series">Series</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_header_title">Carolina Chávez David</string>
+    <string name="nav_header_subtitle">.@carolinachavezD</string>
+    <string name="menu_drawer_settings">Settings and privacy</string>
+    <string name="menu_bookmark">Bookmarks</string>
+    <string name="menu_drawer_profile">Profile</string>
+</resources>
